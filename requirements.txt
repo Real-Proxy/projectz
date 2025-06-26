@@ -1,0 +1,11 @@
+# Core libraries
+requests==2.31.0
+tqdm==4.66.4
+python-dotenv
+
+# Web scraping
+selenium==4.20.0
+beautifulsoup4==4.12.3
+
+# PDF parsing
+PyMuPDF==1.23.24  # Required for fetch_pdf.py (import fitz)

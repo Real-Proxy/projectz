@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Virtual environments
+venv/
+.env
+
+# Output files and generated artifacts
+output/
+*.json
+
+# System
+.DS_Store
+Thumbs.db
+
+# VSCode or JetBrains IDEs
+.vscode/
+.idea/
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# MacOS
+*.DS_Store
+
+# Compiled files
+*.so
+*.dll
+*.pyd
