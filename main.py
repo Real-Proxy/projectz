@@ -56,4 +56,4 @@ if __name__ == "__main__":
     # Step 4: Postprocess to final JSON
     print("Postprocessing LLM output...")
     subprocess.run(["python", "-m", "extract.postprocess"])
-
+    
