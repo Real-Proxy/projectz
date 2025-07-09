@@ -4,25 +4,25 @@ __pycache__/
 *.egg-info/
 *.log
 
-# Environments
+# Virtual environments
 venv/
 .env
 .env.*
 
-# Output and generated files
+# Output and uploads
 output/
 uploads/
 *.json
 *.txt
 
-# IDE and system files
+# IDEs and OS files
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
 *.ipynb_checkpoints/
 
-# Compiled files
+# Compiled extensions
 *.so
 *.dll
 *.pyd
